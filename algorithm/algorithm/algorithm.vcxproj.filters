@@ -13,13 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Stack">
+      <UniqueIdentifier>{2a9fcd85-f975-4ea0-b6c8-cd72193b9263}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Queue">
+      <UniqueIdentifier>{4c78cadd-16b6-48ce-b6dd-21c4662e4e53}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stack1.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Stack</Filter>
     </ClCompile>
     <ClCompile Include="stack2.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="queue1.cpp">
+      <Filter>소스 파일\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="queue2.cpp">
+      <Filter>소스 파일\Queue</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
