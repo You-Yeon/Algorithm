@@ -1,2 +1,3 @@
-﻿  Deque1.cpp
-  algorithm.vcxproj -> C:\Users\최유연\Desktop\algorithm\algorithm\Debug\algorithm.exe
+﻿queue2.obj : error LNK2005: _main이(가) Deque2.obj에 이미 정의되어 있습니다.
+stack2.obj : error LNK2005: _main이(가) Deque2.obj에 이미 정의되어 있습니다.
+C:\Users\최유연\Desktop\algorithm\algorithm\Debug\algorithm.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

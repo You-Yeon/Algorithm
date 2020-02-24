@@ -147,10 +147,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Binary-Tree1.cpp" />
+    <ClCompile Include="Binary-Tree2.cpp" />
+    <ClCompile Include="Bubble-Sort.cpp" />
     <ClCompile Include="Deque1.cpp" />
     <ClCompile Include="Deque2.cpp" />
+    <ClCompile Include="Heap-sort.cpp" />
+    <ClCompile Include="Insertion-sort.cpp" />
+    <ClCompile Include="Merge-sort.cpp" />
     <ClCompile Include="queue1.cpp" />
     <ClCompile Include="queue2.cpp" />
+    <ClCompile Include="Quick-sort.cpp" />
+    <ClCompile Include="Selection-Sort.cpp" />
     <ClCompile Include="stack1.cpp" />
     <ClCompile Include="stack2.cpp" />
   </ItemGroup>
